@@ -15,10 +15,9 @@ This project includes the python code of braod learning system for(BLS) for faci
 
  @misc{Xiaoshan Xie2023 ER-BLS,
     title={Facial beauty prediction fusing transfer learning and broad learning system}, 
-    author={Artemis Panagopoulou and Le Xue and Ning Yu and Junnan Li and Dongxu Li and 
-        Shafiq Joty and Ran Xu and Silvio Savarese and Caiming Xiong and Juan Carlos Niebles},
+    author={J Gan, X Xie, Y Zhai, G He, C Mai, H Luo},
     year={2023},
-    eprint={2311.18799},
-    archivePrefix={arXiv},
+    eprint={[27, 13391–13404 (2023)](https://doi.org/10.1007/s00500-022-07563-1)},
+    archivePrefix={Soft Computing},
     primaryClass={cs.CV}
     }
