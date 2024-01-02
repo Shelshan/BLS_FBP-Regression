@@ -1,8 +1,7 @@
 # BLS_FBP
 This project includes the python code of braod learning system for(BLS) for facial beauty prediction(FBP), and two benchmark datasets, such as SCUT-FBP5500, SCUT-FBP. Welcome to use and reference papers.
- get SCUT-FBP5500 dataset: [SCUT-FBP5500](https://github.com/HCIILAB/SCUT-FBP5500-Database-Release).
- get SCUT-FBP dataset: [SCUT-FBP dataset](http://www.hcii-lab.net/data/SCUT-FBP/).
- Please refer to our paper "Facial beauty prediction fusing transfer learning and broad learning system" and "TransBLS: transformer combined with broad learning system for facial beauty prediction" for more details.
+ get datasets: [SCUT-FBP5500](https://github.com/HCIILAB/SCUT-FBP5500-Database-Release) and [SCUT-FBP dataset](http://www.hcii-lab.net/data/SCUT-FBP/).
+ Please refer to our paper "[Facial beauty prediction fusing transfer learning and broad learning system](https://doi.org/10.1007/s00500-022-07563-1)" and "[TransBLS: transformer combined with broad learning system for facial beauty prediction](https://doi.org/10.1007/s10489-023-04931-8)" for more details.
 
  @misc{XiaoshanXie2023TransBLS,
     title={Facial beauty prediction fusing transfer learning and broad learning system}, 
