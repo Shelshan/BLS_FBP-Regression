@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Sep 28 03:18:22 2018
-@author: HAN_RUIZHI yb77447@umac.mo OR  501248792@qq.com
+@author: XiaoshanXie e-mail:xiaoshanxie.xsx@gmail.com
 This code is the first version of BLS Python. 
 If you have any questions about the code or find any bugs
    or errors during use, please feel free to contact me.
